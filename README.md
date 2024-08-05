@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [faq]()
 - [django-two-factor-authentication](backend/modules)
+- [react-native-2fa](modules/2fa)
 
 # Getting started: Frontend
 
